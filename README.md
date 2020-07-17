@@ -16,9 +16,9 @@ I'm an entusiastic, self motivated Computer Engineer who loves to learn new thin
    Raspberry Pi, Arduino, Banana Pi, Node Mcu.
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/droidverine/"><img height="35" src="img/linkedin.png"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/Droidverine/"><img height="35" src="img/facebook.png"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/Droidverine/"><img height="35" src="img/instagram.png"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/droidverine/"><img height="32" src="https://github.com/Droidverine/Droidverine/blob/master/img/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/Droidverine/"><img height="32" src="https://github.com/Droidverine/Droidverine/blob/master/img/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/Droidverine/"><img height="32" src="https://github.com/Droidverine/Droidverine/blob/master/img/instagram.png"></a>&nbsp;&nbsp;
 </p>
 
 
