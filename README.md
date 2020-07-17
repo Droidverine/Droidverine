@@ -15,8 +15,10 @@ I'm an entusiastic, self motivated Computer Engineer who loves to learn new thin
 * **Microprocessors and Microcontrollers:**
    Raspberry Pi, Arduino, Banana Pi, Node Mcu.
 
-
-
-- 📫 How to reach me: ...
+<p align="center">
+    <a href="https://www.linkedin.com/in/droidverine/"><img height="35" src="img/linkedin.png"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/Droidverine/"><img height="35" src="img/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/Droidverine/"><img height="35" src="img/instagram.png"></a>&nbsp;&nbsp;
+</p>
 
 
