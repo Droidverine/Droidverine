@@ -1,9 +1,17 @@
 ### Hi there 👋
+I'm an entusiastic, self motivated Computer Engineer who loves to learn new things, especially technologies.
 
-<!--
-**Droidverine/Droidverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
+```
+– Programming and scripting langaues: java, Python, JavaScript, C++.
+– Tools and Platforms: Android Studio, Google Cloud platform, Heroku, Figma, Photoshop.
+– Databases: Firebase realtime database, MySQL, SQLite, Goggle Datastore ,Firestore, MongoDB
+– Microprocessors and Microcontrollers: Raspberry Pi, Arduino, Banana Pi, Node Mcu.
 
-Here are some ideas to get you started:
+
+```
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
