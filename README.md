@@ -3,13 +3,13 @@ I'm an entusiastic, self motivated Computer Engineer who loves to learn new thin
 
 ## Skills:
 ```
-#– Programming and scripting langaues: 
-   java, Python, JavaScript, C++.
-#– Tools and Platforms: 
+__– Programming and scripting langaues:__
+   Java, Python, JavaScript, C++.
+__– Tools and Platforms:__
    Android Studio, Google Cloud platform, Heroku, Figma, Photoshop.
-#– Databases: 
+__– Databases:__
    Firebase realtime database, MySQL, SQLite, Goggle Datastore ,Firestore, MongoDB
-#– Microprocessors and Microcontrollers: 
+__– Microprocessors and Microcontrollers:__
    Raspberry Pi, Arduino, Banana Pi, Node Mcu.
 
 
