@@ -3,10 +3,14 @@ I'm an entusiastic, self motivated Computer Engineer who loves to learn new thin
 
 ## Skills:
 ```
-– Programming and scripting langaues: java, Python, JavaScript, C++.
-– Tools and Platforms: Android Studio, Google Cloud platform, Heroku, Figma, Photoshop.
-– Databases: Firebase realtime database, MySQL, SQLite, Goggle Datastore ,Firestore, MongoDB
-– Microprocessors and Microcontrollers: Raspberry Pi, Arduino, Banana Pi, Node Mcu.
+#– Programming and scripting langaues: 
+   java, Python, JavaScript, C++.
+#– Tools and Platforms: 
+   Android Studio, Google Cloud platform, Heroku, Figma, Photoshop.
+#– Databases: 
+   Firebase realtime database, MySQL, SQLite, Goggle Datastore ,Firestore, MongoDB
+#– Microprocessors and Microcontrollers: 
+   Raspberry Pi, Arduino, Banana Pi, Node Mcu.
 
 
 ```
