@@ -7,9 +7,11 @@ I'm an entusiastic, self motivated Computer Engineer who loves to learn new thin
 * **Programming and scripting langaues:** 
   Java, Python, JavaScript, C++.
 * **Tools and Platforms:**
-   Android Studio, Google Cloud platform, Heroku, Figma, Photoshop.
+   Android Studio, Unity Engine, Google Cloud platform, Heroku, Figma, Photoshop.
 * **Databases:** 
-  Firebase realtime database, MySQL, SQLite, Goggle Datastore ,Firestore, MongoDB
+  Firebase realtime database, MySQL, SQLite, Goggle Datastore ,Firestore, MongoDB.
+* **Frameworks and Libraries:**
+  Django, Flask, Volley, Numpy,OpenCV.
 * **Microprocessors and Microcontrollers:**
    Raspberry Pi, Arduino, Banana Pi, Node Mcu.
 
