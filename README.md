@@ -9,7 +9,7 @@ I'm an entusiastic, self motivated Computer Engineer who loves to learn new thin
 * **Tools and Platforms:**
    Android Studio, Unity Engine, Google Cloud platform, Heroku, Figma, Photoshop, AWS.
 * **Databases:** 
-  Firebase realtime database, MySQL, SQLite, Goggle Datastore, Firestore, MongoDB.
+  Firebase realtime database, MySQL, PostgreSQL, SQLite, Goggle Datastore, Firestore, MongoDB.
 * **Frameworks and Libraries:**
   Django, Flask, Volley, Numpy, OpenCV, Celery, Redis, RabitMQ, Retrofit.
 * **Microprocessors and Microcontrollers:**
