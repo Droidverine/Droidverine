@@ -5,7 +5,7 @@ I'm an entusiastic, self motivated Computer Engineer who loves to learn new thin
 ### Skills:
 
 * **Programming and scripting langaues:** 
-  Java, Python, JavaScript, C++, C.
+  Java, Python, JavaScript, C++, C#.
 * **Tools and Platforms:**
    Android Studio, Unity Engine, Google Cloud platform, Heroku, Figma, Photoshop, AWS.
 * **Databases:** 
