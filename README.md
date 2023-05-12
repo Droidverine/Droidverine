@@ -1,5 +1,5 @@
 ### About Me 👋
-I'm an entusiastic, self motivated Computer Engineer who loves to learn new things, especially technologies.
+I'm an entusiastic, self motivated Computer Engineer who loves to learn new things.
 🔭 I’m currently working on Inventory and Customer relationship managemnt system.
 
 ### Skills:
